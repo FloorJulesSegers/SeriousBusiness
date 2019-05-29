@@ -1,0 +1,58 @@
+body{
+    margin-top: 30px;
+}
+.business{
+    padding-left: 30px;
+}
+table{
+    margin-left: 30px;
+    width: 60%;
+}
+.today {
+    color: #8AC007;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.opening-hours-table tr td:first-child {
+    font-weight:bold;
+    font-family: 'Nunito Sans', sans-serif;
+}
+#open-status {
+    display:block;
+    padding-top: 150px;
+}
+.openorclosed:after {
+    content:" open during these hours:";
+    font-family: 'Nunito Sans', sans-serif;
+}
+.open {
+    color:black;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size:20px;
+}
+.open:after {
+    content:" Open";
+    color: #6C0;
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.closed:after {
+    content:" Closed";
+    color: red;
+    font-size: 20;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.opening-hours-table tr td {
+    padding:5px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.clock {
+    padding-top: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #6C0;
+    font-size: 60px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 7px;
+   }
