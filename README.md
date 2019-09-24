@@ -15,7 +15,7 @@
 - Javascript
 
 ## Project link
-
+[SeriousBusiness](https://floorjulessegers.github.io/SeriousBusiness/)
 
 ## Serious Business
 
